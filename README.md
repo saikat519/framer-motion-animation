@@ -11,10 +11,8 @@
     });
   </script>
   
-    css:-
-  ----------
-  <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
-
+    css:-     <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+  ----------  
 
 
   framer-motion :-
